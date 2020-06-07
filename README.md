@@ -7,3 +7,5 @@ Twitter, being the one such popular social website contains an abundance of such
 
 The main objective of this project is to use the twitter data to study the nation-wide opinion and views on CAA, NRC and NPR using sentiment analysis. Also termed as opinion mining, sentiment analysis is primarily used for analyzing the opinions and conversations of public and using this data to classify the sentiment as positive, negative or neutral.
 
+https://medium.com/@harshita19012/state-wise-sentiment-analysis-of-caa-nrc-npr-tweetsthe-state-wise-analysis-of-tweets-against-f5c7b273c399
+
